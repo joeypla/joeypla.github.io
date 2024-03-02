@@ -16,5 +16,14 @@
       <description>Still Learning What the fuck is going on? Web is hard.</description>
     </item>
     
+    <item>
+      <title>Firstpost</title>
+      <link>/posts/secondposttest/</link>
+      <pubDate>Sun, 08 Aug 2021 15:03:29 -0400</pubDate>
+      
+      <guid>/posts/secondposttest/</guid>
+      <description>Still Learning Just making sure that this posts shows up. I love writing about video games and such.</description>
+    </item>
+    
   </channel>
 </rss>

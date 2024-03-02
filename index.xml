@@ -115,17 +115,17 @@
     </item>
     <item>
       <title>Firstpost</title>
-      <link>/posts/firstpost/</link>
-      <pubDate>Sun, 08 Aug 2021 15:03:29 -0400</pubDate>
-      <guid>/posts/firstpost/</guid>
-      <description>Still Learning What the fuck is going on? Web is hard.</description>
-    </item>
-    <item>
-      <title>Firstpost</title>
       <link>/posts/secondposttest/</link>
       <pubDate>Sun, 08 Aug 2021 15:03:29 -0400</pubDate>
       <guid>/posts/secondposttest/</guid>
       <description>Still Learning Just making sure that this posts shows up. I love writing about video games and such.</description>
+    </item>
+    <item>
+      <title>Resume/CV</title>
+      <link>/posts/firstpost/</link>
+      <pubDate>Sun, 08 Aug 2021 15:03:29 -0400</pubDate>
+      <guid>/posts/firstpost/</guid>
+      <description>Resume Hi, my name is Joey. I&amp;rsquo;m a developer based in Montreal, Canada. I have over a decade of experience in software development and have spent the last 7 years making video games and other interactive-media applications.&#xA;Enthusiast Games, November 2016 - September 2022 In November 2016, after working for several months on a VR first person shooter prototype, I raised private funding to start a video game studio. As a small team, most of my time was able to be spent on development, while still being able to work my Business Development muscles when the time came around, whether it was raising more funding, seeking out deals with publishers, closing licensing deals.</description>
     </item>
   </channel>
 </rss>

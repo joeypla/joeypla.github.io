@@ -97,7 +97,7 @@
       <link>/contact/</link>
       <pubDate>Sat, 18 Dec 2021 03:10:36 +0000</pubDate>
       <guid>/contact/</guid>
-      <description>&#xD;This is the contact page Got a technical issue? Want to send feedback about a beta feature? Need details about our Business plan? Let us know.&#xA;Your Email:&#xD;Subject:&#xD;Your message:&#xD;Send Message&#xD;</description>
+      <description>&#xD;Want to build something cool together? Get in touch with me!&#xA;Your Email:&#xD;Subject:&#xD;Your message:&#xD;Send Message&#xD;</description>
     </item>
     <item>
       <title>News Post 3</title>
@@ -118,14 +118,14 @@
       <link>/posts/projects/</link>
       <pubDate>Sun, 08 Aug 2021 15:03:29 -0400</pubDate>
       <guid>/posts/projects/</guid>
-      <description>Projects Expanded PSYKO is the solo project I&amp;rsquo;m currently working on. I&amp;rsquo;ve learnt a lot over the last few years, and I think I have a much better understanding of how to keep my scope down while still focusing on the core value. A solo project is great for this, and the core loop I&amp;rsquo;ve chosen seems to work well. Its short and tight and so delivers the value quickly. Additionally, I think the short loops are good for headsets, especially the Quest, where playtimes are often shorter in median than your PC play sessions.</description>
+      <description>Projects Expanded PSYKO PSYKO is the solo project I&amp;rsquo;m currently working on. It&amp;rsquo;s a VR motorcycle game where you weave through traffic while shooting enemies, and bumping them off their bikes.&#xA;I&amp;rsquo;ve learnt a lot over the last few years, and I think I have a much better understanding of how to keep my scope down while still focusing on the core value. A solo project is great for this, and the core loop I&amp;rsquo;ve chosen seems to work well.</description>
     </item>
     <item>
       <title>Resume/CV</title>
       <link>/resume/</link>
       <pubDate>Sun, 08 Aug 2021 15:03:29 -0400</pubDate>
       <guid>/resume/</guid>
-      <description>Joey Pla, Developer Product-Focused Strong technical background Wide domain knowledge (Games, Engine Architecture) Experience raising capital: Private and Canadian Media Fund (CMF-FMC) A more comprehensive list of my projects is available Skills C++, C# Unity, Unreal Virtual Reality Development Optimization with tight constraints Staying productive while the government comes after me for tax issues. PSYKO, Solo VR Project // June 2023 - Current I&amp;rsquo;m currently working on PSYKO as a solo developer with a tentative release of July 2024.</description>
+      <description>Joey Pla, Developer Based in Montreal, Canada English, French Product-Focused Strong technical background Wide domain knowledge (Games, Engine Architecture) Experience raising capital: Private and Canadian Media Fund (CMF-FMC) A more comprehensive list of my projects is available Skills C++, C# Unity, Unreal Virtual Reality Development Optimization with tight constraints Staying productive while the government comes after me for tax issues. PSYKO, Solo VR Project // June 2023 - Current I&amp;rsquo;m currently working on PSYKO as a solo developer with a tentative release of July 2024.</description>
     </item>
   </channel>
 </rss>

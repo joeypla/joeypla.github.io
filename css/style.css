@@ -698,7 +698,7 @@ video {
 .prose :where(h1):not(:where([class~="not-prose"] *)) {
   color: var(--tw-prose-headings);
   font-weight: 800;
-  font-size: 2.25em;
+  font-size: 2em;
   margin-top: 0;
   margin-bottom: 0.8888889em;
   line-height: 1.1111111;
@@ -712,7 +712,7 @@ video {
 .prose :where(h2):not(:where([class~="not-prose"] *)) {
   color: var(--tw-prose-headings);
   font-weight: 700;
-  font-size: 1.5em;
+  font-size: 1.2em;
   margin-top: 2em;
   margin-bottom: 1em;
   line-height: 1.3333333;
@@ -726,7 +726,7 @@ video {
 .prose :where(h3):not(:where([class~="not-prose"] *)) {
   color: var(--tw-prose-headings);
   font-weight: 600;
-  font-size: 1.25em;
+  font-size: 1em;
   margin-top: 1.6em;
   margin-bottom: 0.6em;
   line-height: 1.6;
@@ -941,8 +941,8 @@ video {
 }
 
 .prose :where(li):not(:where([class~="not-prose"] *)) {
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
 }
 
 .prose :where(ol > li):not(:where([class~="not-prose"] *)) {
@@ -951,6 +951,7 @@ video {
 
 .prose :where(ul > li):not(:where([class~="not-prose"] *)) {
   padding-left: 0.375em;
+  font-size: 15px;
 }
 
 .prose :where(.prose > ul > li p):not(:where([class~="not-prose"] *)) {
@@ -4651,4 +4652,14 @@ EmojiSymbols;
     font-size: 1.25rem;
     line-height: 1.75rem;
   }
+}
+
+/*My own css. Not sure why putting custom code in main.css isn't working */
+.custom-h2 {
+  font-size: 28px;
+  color: pink;
+}
+.custom-h2 .sub-info {
+  font-size: 14px;
+  font-weight: 100;
 }
